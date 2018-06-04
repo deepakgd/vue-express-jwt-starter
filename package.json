@@ -1,7 +1,7 @@
 {
-  "name": "fb-broadcast",
+  "name": "vue-auth-starter",
   "version": "1.0.0",
-  "description": "Dashboard for Facebook broadcast api",
+  "description": "Vue Auth Starter",
   "author": "logeshkumar.r <logeshkumar.r@krds.fr>",
   "private": true,
   "scripts": {
